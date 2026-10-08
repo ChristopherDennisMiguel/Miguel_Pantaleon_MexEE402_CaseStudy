@@ -13,7 +13,7 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter | Member 1 - Miguel | Member 2 - Pantaleon |
+| Chapter | Miguel | Pantaleon |
 |---|---|---|
 | Ch1_2_3 | [https://colab.research.google.com/drive/1yMTUnKs2T82QIF32Wto_s7ubeNjQndl2?usp=sharing]() | [[link](https://colab.research.google.com/drive/17PpWMHbsJXVUMhvc2t9jUeS-8CLLLKKv?authuser=1#scrollTo=V5gaOsrEGbAU)]() |
 | Ch4 | [https://colab.research.google.com/drive/18W2wlBKByAaSpfa5qHaW2A3Ql6OkStYt?usp=sharing]() | [link]() |
