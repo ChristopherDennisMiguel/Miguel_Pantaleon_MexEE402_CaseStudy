@@ -35,7 +35,7 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools
 
-We use ai tools like Gemini and Chat Gpt 
+We use ai tools such as Gemini and Chat Gpt 
 
 ## References
 
