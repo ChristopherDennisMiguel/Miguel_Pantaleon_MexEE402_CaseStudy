@@ -8,12 +8,12 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
-| Surname, First Name | | |
+| Miguel Jr, Christopher Dennis |22-08815 |MEXE--4103 |
+| Pantaleon, Marl Joshua |22-04266 |MEXE--4103 |
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Member 1 - Miguel | Member 2 - Pantaleon |
 |---|---|---|
 | Ch1_2_3 | [link]() | [link]() |
 | Ch4 | [link]() | [link]() |
