@@ -43,15 +43,16 @@ Here I learned how extreme values can throw off a model's understanding of norma
 
 Chapter 7: Feature Selection
 
-This chapter showed me that having more data isn't always better, since keeping extra or useless features can actually slow down training and hurt model performance. I realized the difference between simply filtering variables using quick stats—like checking correlation heatmaps—and using active wrapper methods like RFECV. What surprised me most was how RFECV actually tests different combinations of features interactively with a model to find the absolute best subset.
+I learned from this chapter how to select the best features by identifying which data is most relevant to the analysis. Also, by removing unnecessary features it can improve the model's performance and make the data easier to understand. What surprised me is how much data can be reduced while still keeping the most important information.
 
 Chapter 8: Constructing a Preprocessing Pipeline
 
-This chapter taught me how to bundle all data preparation steps into one automated, repeatable workflow. Instead of manually applying transformations one by one, a pipeline acts like an assembly line that processes raw data cleanly every single time. What surprised me was how `ColumnTransformer` lets you route specific columns into completely different pipelines—like scaling numbers while one-hot encoding categories—all in a single execution step.
+I learned from this chapter how different data preparation steps work together in one workflow that can be repeated consistently. Instead of manually applying transformations one by one, a pipeline acts like an assembly line that processes raw data cleanly every single time. What surprised me was how ColumnTransformer lets you route specific columns into completely different pipelines, like scaling numbers while one-hot encoding categories, all in a single execution step.
 
 Chapter 9: Full Pipeline and Visualization
 
-Bringing everything together on the Titanic dataset showed me the complete end-to-end preprocessing workflow. I learned how to clean missing values, discretize age into life stages, encode categories, and visualize the cleaned results. What surprised me most was seeing how much easier it is to spot real human patterns—like survival rates based on gender or passenger class—once the data is properly cleaned and visualized.
+I learned from this chapter how to apply different data preprocessing steps to the Titanic dataset, from handling missing values and grouping ages into life stages to encoding categories and visualizing the results. I understood how these steps help organize the data and make it easier to analyze. What surprised me most was how much easier it is to identify patterns, such as differences in survival rates based on gender or passenger class, after the data has been properly cleaned and visualized.
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
