@@ -59,7 +59,7 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools
 
-We use ai tools such as Google Gemini and Chat Gpt that helps us to answer the Chapter Questions
+We use ai tools such as Google Gemini and Chat Gpt that helps us to answer the Chapter Questions.
 
 ## References
 
