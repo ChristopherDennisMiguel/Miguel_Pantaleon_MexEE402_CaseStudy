@@ -15,7 +15,7 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Miguel | Pantaleon |
 |---|---|---|
-| Ch1_2_3 | [https://colab.research.google.com/drive/1yMTUnKs2T82QIF32Wto_s7ubeNjQndl2?usp=sharing]() | [https://colab.research.google.com/drive/17PpWMHbsJXVUMhvc2t9jUeS-8CLLLKKv?usp=sharing]() |
+| Ch1_2_3 | [Miguel_Ch1_2_3](https://colab.research.google.com/drive/1yMTUnKs2T82QIF32Wto_s7ubeNjQndl2?usp=sharing) | [https://colab.research.google.com/drive/17PpWMHbsJXVUMhvc2t9jUeS-8CLLLKKv?usp=sharing]() |
 | Ch4 | [https://colab.research.google.com/drive/18W2wlBKByAaSpfa5qHaW2A3Ql6OkStYt?usp=sharing]() | [[link](https://colab.research.google.com/drive/1kHfqeRglQWC6HeIzIslxM2a40RfpKiX3?usp=sharing)]() |
 | Ch5 | [https://colab.research.google.com/drive/1QDMYzqzW6_DhhU1QdPVXL1HCWh_0qVPP?usp=sharing]() | [[link](https://colab.research.google.com/drive/1RXRZRqCZThI2zinxDmlsV6tDx-z4BK4g?usp=sharing)]() |
 | Ch6 | [https://colab.research.google.com/drive/16kbBKmZ0LcjKoX6Eag1URYE9r3j8FBOm?usp=sharing]() | [[link](https://colab.research.google.com/drive/17mwBu1Fm0Cujx9ogubMSObN40sQOOROS?usp=sharing)]() |
